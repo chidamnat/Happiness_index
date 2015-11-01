@@ -1,0 +1,28 @@
+Variable Name,Detail
+ID,Unique ID
+institute_latitude,Geographical Variable
+institute_longitude,Geographical Variable
+institute_city,Institute Detail
+institute_state,Institute Detail
+institute_zip,Institute Detail
+institute_country,Institute Detail
+Instructor_Past_Performance,Project Instructor Past Experience
+Instructor_Association_Industry_Expert,Instructor association with Industry Expert
+project_subject,Subject of the project (Primary Subject)
+subject_area,"Area of Project (Math & Science, Applied Learning, Health & Sports …."
+secondary_subject,Subject of the project (Secondary)
+secondary_area,"Area of Project (Math & Science, Applied Learning, Health & Sports …."
+Resource_Category,"Books, Technology, Supplies, Trips, Visitors, Other"
+Resource_Sub_Category,Sub category of resource
+Similar_Project_Valuation_other_institute,Valuation of similar project at other institute in past
+Var4,Categorical Variable with multile classes
+Var8,Categorical Variable with multile classes
+Var10,Binary Variable
+Var11,Binary Variable
+Var12,Binary Variable
+Var13,Binary Variable
+Var14,Binary Variable
+Var15,Categorical Variable with multiple classes
+Var23,Categorical Variable with multiple classes
+Var24,Categorical Variable with multiple classes
+Project_Valuation,Target Variable
